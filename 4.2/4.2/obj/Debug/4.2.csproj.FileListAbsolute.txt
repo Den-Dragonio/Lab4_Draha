@@ -1,0 +1,14 @@
+D:\PROJECTS\Visual studio back-end\Лабораторна 4\4.2\4.2\bin\Debug\4.2.exe.config
+D:\PROJECTS\Visual studio back-end\Лабораторна 4\4.2\4.2\bin\Debug\4.2.exe
+D:\PROJECTS\Visual studio back-end\Лабораторна 4\4.2\4.2\bin\Debug\4.2.pdb
+D:\PROJECTS\Visual studio back-end\Лабораторна 4\4.2\4.2\obj\Debug\4.2.csproj.AssemblyReference.cache
+D:\PROJECTS\Visual studio back-end\Лабораторна 4\4.2\4.2\obj\Debug\4.2.csproj.CoreCompileInputs.cache
+D:\PROJECTS\Visual studio back-end\Лабораторна 4\4.2\4.2\obj\Debug\4.2.exe
+D:\PROJECTS\Visual studio back-end\Лабораторна 4\4.2\4.2\obj\Debug\4.2.pdb
+D:\PROJECTS\Visual studio back-end\Лабораторна 4\курс 2 лаб 4\4.2\4.2\bin\Debug\4.2.exe.config
+D:\PROJECTS\Visual studio back-end\Лабораторна 4\курс 2 лаб 4\4.2\4.2\bin\Debug\4.2.exe
+D:\PROJECTS\Visual studio back-end\Лабораторна 4\курс 2 лаб 4\4.2\4.2\bin\Debug\4.2.pdb
+D:\PROJECTS\Visual studio back-end\Лабораторна 4\курс 2 лаб 4\4.2\4.2\obj\Debug\4.2.csproj.AssemblyReference.cache
+D:\PROJECTS\Visual studio back-end\Лабораторна 4\курс 2 лаб 4\4.2\4.2\obj\Debug\4.2.csproj.CoreCompileInputs.cache
+D:\PROJECTS\Visual studio back-end\Лабораторна 4\курс 2 лаб 4\4.2\4.2\obj\Debug\4.2.exe
+D:\PROJECTS\Visual studio back-end\Лабораторна 4\курс 2 лаб 4\4.2\4.2\obj\Debug\4.2.pdb

@@ -1,0 +1,7 @@
+D:\PROJECTS\Visual studio back-end\Лабораторна 4\4.4\4.4\bin\Debug\4.4.exe.config
+D:\PROJECTS\Visual studio back-end\Лабораторна 4\4.4\4.4\bin\Debug\4.4.exe
+D:\PROJECTS\Visual studio back-end\Лабораторна 4\4.4\4.4\bin\Debug\4.4.pdb
+D:\PROJECTS\Visual studio back-end\Лабораторна 4\4.4\4.4\obj\Debug\4.4.csproj.AssemblyReference.cache
+D:\PROJECTS\Visual studio back-end\Лабораторна 4\4.4\4.4\obj\Debug\4.4.csproj.CoreCompileInputs.cache
+D:\PROJECTS\Visual studio back-end\Лабораторна 4\4.4\4.4\obj\Debug\4.4.exe
+D:\PROJECTS\Visual studio back-end\Лабораторна 4\4.4\4.4\obj\Debug\4.4.pdb
